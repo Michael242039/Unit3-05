@@ -1,0 +1,73 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{247, 176}, {80, 69}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "factorial",
+          "border_width" : 5,
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "99FBD690-853B-486E-A201-13D447A08D54",
+          "class" : "Button",
+          "corner_radius" : 0,
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{213, 136}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "9FA4710C-7E3B-41D2-8C99-0D19C9A86864",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "factorial_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{186, 268}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "number_input",
+          "placeholder" : "enter number here",
+          "frame" : "{{170, 254}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "895C2CD7-1F5B-4DE8-8022-D5F831BEE056",
+          "alignment" : "center",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
